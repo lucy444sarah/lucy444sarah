@@ -1,14 +1,13 @@
 <h1 align="center">Hey! I'm Sully Hagedorn-Alvarez</h1>
 <h3 align="center">"Great minds think alike"</h3>
 
-<img src="https://gifer.com/embed/3Ayb" width=480 height=521.143 frameBorder="0" allowFullScreen>
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucy444sarah&label=Profile%20views&color=0e75b6&style=flat" alt="lucy444sarah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucy444sarah" alt="lucy444sarah" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/trouverlamode" target="blank"><img src="https://img.shields.io/twitter/follow/trouverlamode?logo=twitter&style=for-the-badge" alt="trouverlamode" /></a> </p>
 
