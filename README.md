@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Sully Hagedorn-Alvarez</h1>
 <h3 align="center">"Great minds think alike"</h3>
 
-<iframe src="https://gifer.com/embed/3Ayb" width=480 height=521.143 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://gifer.com/embed/3Ayb" width=480 height=521.143 frameBorder="0" allowFullScreen>
 
 
 
