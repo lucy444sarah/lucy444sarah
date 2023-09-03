@@ -3,6 +3,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Ayb.gif">
 
+
+<iframe src="https://gifer.com/embed/3Ayb" width=480 height=521.143 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucy444sarah&label=Profile%20views&color=0e75b6&style=flat" alt="lucy444sarah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucy444sarah" alt="lucy444sarah" /></a> </p>
