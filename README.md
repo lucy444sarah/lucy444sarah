@@ -1,8 +1,6 @@
 <h1 align="center">Hey! I'm Sully Hagedorn-Alvarez</h1>
 <h3 align="center">"Great minds think alike"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14382770-Female-Programmer/attachments/6053864?mode=media">
-
 
 
 
