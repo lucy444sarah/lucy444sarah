@@ -1,10 +1,10 @@
 <h1 align="center">Hey! I'm Sully Hagedorn-Alvarez</h1>
 <h3 align="center">"Great minds think alike"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Ayb.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14382770-Female-Programmer/attachments/6053864?mode=media">
 
 
-<iframe src="https://gifer.com/embed/3Ayb" width=480 height=521.143 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucy444sarah&label=Profile%20views&color=0e75b6&style=flat" alt="lucy444sarah" /> </p>
