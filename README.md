@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/trouverlamode" target="blank"><img src="https://img.shields.io/twitter/follow/trouverlamode?logo=twitter&style=for-the-badge" alt="trouverlamode" /></a> </p>
 
-- 🔭 I’m currently working on [A CookBook!!](https://trello.com/b/UMA0CtQ4/cookbook)
+- 🔭 I’m currently working on [Learning Python with Dra. Yu!]([https://trello.com/b/UMA0CtQ4/cookbook](https://100daysofpython.dev/))
 
 - 🌱 I’m currently learning **Tailwind,Bootstraps**
 
