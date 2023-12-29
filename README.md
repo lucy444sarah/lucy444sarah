@@ -1,17 +1,13 @@
 <h1 align="center">Hey! I'm Sully Hagedorn-Alvarez</h1>
 <h3 align="center">"Great minds think alike"</h3>
 
-
-
-
+![MYTHOUGHTS!](backgroundrepo.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucy444sarah&label=Profile%20views&color=0e75b6&style=flat" alt="lucy444sarah" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/trouverlamode" target="blank"><img src="https://img.shields.io/twitter/follow/trouverlamode?logo=twitter&style=for-the-badge" alt="trouverlamode" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Python with Dra. Yu!]([https://trello.com/b/UMA0CtQ4/cookbook](https://100daysofpython.dev/))
+- 🔭 I’m currently working on [Learning Python with Dra. Yu!](<[https://trello.com/b/UMA0CtQ4/cookbook](https://100daysofpython.dev/)>)
 
 - 🌱 I’m currently learning **Tailwind,Bootstraps**
 
